@@ -1,3 +1,4 @@
+# Actual Work to Do:
 
 - [ ] Make a portfolio website by the end of the month
 - [ ] Codedex Monthly Challenge 
@@ -9,7 +10,7 @@
 
 
 ---
-
+# Miscellaneous
 
   - [ ] how a deinosuchus took over the server
   - [ ] hoverstate webiste
