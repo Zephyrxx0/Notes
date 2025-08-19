@@ -1,6 +1,8 @@
 
 - [ ] Make a portfolio website by the end of the month
 - [ ] Codedex Monthly Challenge 
+- [ ] Ideation for Nothing Hackathon
+- [ ] Extra Practice: Neural Networks, Advanced Python, Advanced JavaScript
 - [ ] Make Better Workflow and Navigation
 - [ ] Better Notes with References
 - [ ] Atleast 1 Project
