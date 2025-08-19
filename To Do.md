@@ -1,0 +1,11 @@
+
+  - [ ] how a deinosuchus took over the server
+  - [ ] hoverstate webiste
+  - [ ] oh my git , org
+  - [ ] thank goodness youre here
+  - [ ] quick ref website
+  - [ ] gsap js
+  - [ ] blocks.so
+  - [ ] 21st.dev
+  - [ ] mintlify.vom
+  - [ ] connect git to mobile obsidian
