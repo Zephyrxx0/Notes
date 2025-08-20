@@ -7,7 +7,12 @@
 - [ ] Make Better Workflow and Navigation
 - [ ] Better Notes with References
 - [ ] Atleast 1 Project
+- [ ] Custom Obsidian Theme with different UI configuration
 
+
+--sync problem--
+Laptop set
+Mobile problems
 
 ---
 # Miscellaneous
