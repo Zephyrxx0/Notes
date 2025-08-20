@@ -1,0 +1,3 @@
+
+DeMorgan's law Expression
+
