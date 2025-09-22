@@ -30,4 +30,4 @@ I set it up on my android 13 device so I'll guide it as is, but it should work f
 
 1. Open Obsidian and install the git plug-in
 
-2. 
+2. Initialiaze git
