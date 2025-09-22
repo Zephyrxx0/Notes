@@ -8,11 +8,23 @@
 - [ ] Better Notes with References
 - [ ] Atleast 1 Project
 - [ ] Custom Obsidian Theme with different UI configuration
+- [ ] [ML Foundations](https://youtu.be/BUTjcAjfMgY?si=4Iav2mSUdLFe0MI8)
+
 
 
 --sync problem--
 Laptop set
 Mobile problems
+
+
+
+##COURSES:
+
+- [ ] [GEN AI Explained NVIDIA](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1)
+- [ ] [Building RAG Agents with LLMs](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1)
+- [ ]  
+
+
 
 ---
 # Miscellaneous

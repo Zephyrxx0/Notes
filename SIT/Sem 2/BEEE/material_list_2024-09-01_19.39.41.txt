@@ -1,0 +1,41 @@
++----------------------+-------+---------+------------+
+| Material List for placement '72K END FACTORY FINAL' |
++----------------------+-------+---------+------------+
+| Item                 | Total | Missing |  Available |
++----------------------+-------+---------+------------+
+| Packed Ice           |   120 |     120 |          0 |
+| White Stained Glass  |    93 |      93 |          0 |
+| Obsidian             |    73 |      48 |          0 |
+| Purple Stained Glass |    41 |      41 |          0 |
+| Lime Concrete        |    36 |      36 |          0 |
+| Observer             |    32 |      32 |          0 |
+| Warped Sign          |    31 |      31 |          0 |
+| Quartz Stairs        |    24 |      24 |          0 |
+| Gray Concrete        |    23 |      23 |          0 |
+| Piston               |    17 |      17 |          0 |
+| Water Bucket         |    15 |      15 |          1 |
+| Warped Fence Gate    |    14 |      14 |          0 |
+| Slime Block          |    12 |      12 |          0 |
+| Note Block           |     9 |       9 |          0 |
+| Cobblestone Wall     |     8 |       8 |          0 |
+| Iron Trapdoor        |     8 |       8 |          0 |
+| Sticky Piston        |     5 |       5 |          0 |
+| Dispenser            |     4 |       4 |          0 |
+| Redstone Repeater    |     4 |       4 |          0 |
+| String               |     4 |       4 |          0 |
+| Warped Trapdoor      |     4 |       4 |          0 |
+| Birch Sign           |     3 |       3 |          0 |
+| Hopper               |     2 |       2 |          0 |
+| Block of Gold        |     1 |       1 |          0 |
+| Block of Redstone    |     1 |       1 |          0 |
+| Dropper              |     1 |       1 |          0 |
+| Iron Door            |     1 |       1 |          0 |
+| Ladder               |     1 |       1 |          0 |
+| Lever                |     1 |       1 |          0 |
+| Redstone Comparator  |     1 |       1 |          0 |
+| Redstone Dust        |     1 |       1 |          0 |
+| Redstone Lamp        |     1 |       1 |          0 |
+| TNT                  |     1 |       1 |          0 |
++----------------------+-------+---------+------------+
+| Item                 | Total | Missing |  Available |
++----------------------+-------+---------+------------+
