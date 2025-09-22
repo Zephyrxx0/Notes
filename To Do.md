@@ -12,11 +12,6 @@
 
 
 
---sync problem--
-Laptop set
-Mobile problems
-
-
 
 ##COURSES:
 
