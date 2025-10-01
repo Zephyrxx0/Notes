@@ -36,4 +36,4 @@
   - [ ] connect git to mobile obsidian
 
 
-New text from mobile
+
