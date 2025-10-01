@@ -29,4 +29,6 @@ If you want to push/pull between mobile devices too, I'd recommend setting up th
 I set it up on my android 13 device so I'll guide it as is, but it should work fine too in IOS devices
 
 1. Open Obsidian and install the git plug-in
+2. Go to "Git" plug-in and enter username and password in respective fields.
+3. 
 
