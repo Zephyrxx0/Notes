@@ -9,6 +9,7 @@
 - [ ] Atleast 1 Project
 - [ ] Custom Obsidian Theme with different UI configuration
 - [ ] [ML Foundations](https://youtu.be/BUTjcAjfMgY?si=4Iav2mSUdLFe0MI8)
+- [ ] Project Idea: Generate a Color Palette Saving System
 
 
 
