@@ -1,0 +1,29 @@
+/* << ------------------ Reading View ------------------ >> */
+	
+	.markdown-preview-view h1 {
+		font-size: 36px !important;
+	}
+
+	.markdown-preview-view h2 {
+		font-size: 24px !important;
+	}
+
+	.markdown-preview-view h3 {
+		font-size: 18px !important;
+	}
+
+	
+
+	/* << ------------ Source View / Live Preview ------------ >> */
+
+	.cm-s-obsidian .cm-header.cm-header-1 {
+		font-size: 36px !important;
+	}
+
+	.cm-s-obsidian .cm-header.cm-header-2 {
+		font-size: 24px !important;
+	}
+
+	.cm-s-obsidian .cm-header.cm-header-3 {
+		font-size: 18px !important;
+	}	

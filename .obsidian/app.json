@@ -1,0 +1,10 @@
+{
+  "tabSize": 4,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
+}

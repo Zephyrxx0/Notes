@@ -1,0 +1,14 @@
+{
+  "cssTheme": "evaforest",
+  "enabledCssSnippets": [
+    "heading_snippet",
+    "math_background",
+    "color-card"
+  ],
+  "accentColor": "",
+  "interfaceFontFamily": "Cascadia Code,JetBrains Mono,Brass Mono Code",
+  "textFontFamily": "Cascadia Code,JetBrains Mono,Brass Mono Code",
+  "monospaceFontFamily": "Cascadia Code,JetBrains Mono,Brass Mono Code",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true
+}

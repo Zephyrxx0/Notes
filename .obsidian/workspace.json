@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "faa433f6345371fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dcdd66b9caf555c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "197d07d7f7b04229",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "SIT/Sem 5/DC/Data-Compression-Syllabus.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Data-Compression-Syllabus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4aa4e089faa12352",
+    "type": "split",
+    "children": [
+      {
+        "id": "8945fce10f3b5a31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e0a65e918505edd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "24aef101727e618f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Question",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "96f19f0892fa3a62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ef84872294cc70e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6079d487a924be66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "989fcafa3a837dc8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "8d2cc8398147112d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "ec0e35523add4352",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8c4598408db3d0dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SIT/Sem 3/Data Structures/Questions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Questions"
+            }
+          },
+          {
+            "id": "8fe6d19355e6ce1f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "SIT/Sem 5/DC/JPEG.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 3.863410568617497,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of JPEG"
+            }
+          },
+          {
+            "id": "d9d825e24a745e80",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "3edc38660f053273",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "SIT/Sem 5/DC/JPEG.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 685.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "0e0a65e918505edd",
+  "lastOpenFiles": [
+    "SIT/Sem 5/DC/Data-Compression-Syllabus.pdf",
+    "Test note .md",
+    "SIT/Sem 5/CC/e-book.pdf",
+    "SIT/Sem 5/Exam-Timetable.pdf",
+    "To Do.md",
+    "Color-Picker/Temp.md",
+    "SIT/Sem 5/CC/syllabus.pdf",
+    "SIT/Sem 5/CC/Key Points.md",
+    "SIT/Sem 5/CC/UNIT-1-Material/compiler.pdf",
+    "Untitled.canvas",
+    "Flexi-Final-Submission.md",
+    "SIT/Sem 5/CC/UNIT-1-Material/Unit 1 -Compiler Construction notes.pdf",
+    "[[e-book.pdf.md",
+    "SIT/Sem 5/Syllabus/Compiler Construction_TE7751.pdf",
+    "SIT/Sem 5/V-semester.pdf",
+    "SIT/Sem 5/CC/UNIT-1-Material",
+    "SIT/Sem 5/CC/UNIT-!-Material",
+    "SIT/Sem 5/CC/Aims.md",
+    "SIT/Sem 5/DC/6927e2ab.png",
+    "SIT/Sem 5/DC/UNIT-3.md",
+    "SIT/Sem 5/DC/UNIT-4-Material/kamalai.png",
+    "SIT/Sem 5/DC/CA4.md",
+    "SIT/Sem 5/DC/JPEG.md",
+    "SIT/Sem 5/Flexi/ReactJs.md",
+    "SIT/Sem 5/Flexi/MySQL.md",
+    "SIT/Sem 5/Flexi/MongoDB.md",
+    "SIT/Sem 5/Flexi/JavaScript Concepts.md",
+    "SIT/Sem 5/CN/Network Layer.md",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded/Golden Ratio.svg",
+    "Excalidraw/Scripts/Downloaded/Golden Ratio.md",
+    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.svg",
+    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md",
+    "Excalidraw/Drawing 2025-02-28 11.54.04.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-21 13.44.08.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-18 10.13.08.excalidraw.md",
+    "Excalidraw/DBMS.md",
+    "Excalidraw/CardinalityConstraint.excalidraw.md",
+    "README.md",
+    "Pasted image 20250926211510.png",
+    "SIT/Sem 3/DMGT/notes/IMG-20241207-WA0023.jpg",
+    "SIT/Sem 3/DMGT/notes/IMG-20241207-WA0024.jpg",
+    "SIT/Sem 3/DMGT/notes/IMG-20241207-WA0022.jpg"
+  ]
+}
