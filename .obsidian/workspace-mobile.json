@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIT/sem 6/CCTT/Unit-01 - Insights about Cloud Computing.md",
+                "file": "SIT/sem 6/CCTT/Unit-03 - Cloud Programming and Open Source Cloud Implementation.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit-01 - Insights about Cloud Computing"
+              "title": "Unit-03 - Cloud Programming and Open Source Cloud Implementation"
             }
           }
         ]
@@ -113,7 +113,7 @@
           "type": "backlink",
           "state": {
             "file": "SIT/sem 6/CCTT/Unit-03 - Cloud Programming and Open Source Cloud Implementation.md",
-            "collapseAll": false,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md",
+            "file": "SIT/sem 6/CCTT/Unit-03 - Cloud Programming and Open Source Cloud Implementation.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -155,7 +155,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +171,9 @@
   },
   "active": "6d53658ff610114f",
   "lastOpenFiles": [
-    "SIT/sem 6/CCTT/Unit-03 - Cloud Programming and Open Source Cloud Implementation.md",
     "SIT/sem 6/CCTT/Unit-02 - Overview of Cloud Computing.md",
+    "SIT/sem 6/CCTT/Unit-01 - Insights about Cloud Computing.md",
+    "SIT/sem 6/CCTT/Unit-03 - Cloud Programming and Open Source Cloud Implementation.md",
     "SIT/sem 6/NNDS/gpt2/Unit 5 - Unsupervised Learning Networks and Case Studies - Detailed.md",
     "SIT/sem 6/NNDS/gpt2/Unit 4 - RBF and Recurrent Neural Networks - Detailed.md",
     "SIT/sem 6/NNDS/gpt2/Unit 3 - Perceptron Backpropagation and Variants - Detailed.md",
